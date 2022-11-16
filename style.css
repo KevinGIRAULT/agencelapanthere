@@ -777,7 +777,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #f3976c;
+    background-color: #5D3F31;
 }
 
 .tc-white {
@@ -825,10 +825,12 @@ h4 {
 
 .bg-banniere {
     background-image: -webkit-image-set(
+        url("img/avif/agence-la-panthere.avif") type("image/avif"),
         url("img/webp/agence-la-panthere.webp") type("image/webp"),
         url("img/jpg/agence-la-panthere.jpg") type("image/jpeg")
     );
     background-image: image-set(
+        url("img/avif/agence-la-panthere.avif") type("image/avif"),
         url("img/webp/agence-la-panthere.webp") type("image/webp"),
         url("img/jpg/agence-la-panthere.jpg") type("image/jpeg")
     );
@@ -836,10 +838,12 @@ h4 {
 
  .bg-presentation {
     background-image: -webkit-image-set(
+        url("img/avif/image-de-presentation.avif") type("image/avif"),
         url("img/webp/image-de-presentation.webp") type("image/webp"),
         url("img/jpg/image-de-presentation.jpg") type("image/jpeg")
     );
     background-image: image-set(
+        url("img/avif/image-de-presentation.avif") type("image/avif"),
         url("img/webp/image-de-presentation.webp") type("image/webp"),
         url("img/jpg/image-de-presentation.jpg") type("image/jpeg")
     );
