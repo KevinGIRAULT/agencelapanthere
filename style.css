@@ -828,11 +828,11 @@ h4 {
         url("img/webp/agence-la-panthere.webp") type("image/webp"),
         url("img/jpg/agence-la-panthere.jpg") type("image/jpeg")
     );
-    background-image: image-set(
+    /* background-image: image-set(
         url("img/avif/agence-la-panthere.avif") type("image/avif"),
         url("img/webp/agence-la-panthere.webp") type("image/webp"),
         url("img/jpg/agence-la-panthere.jpg") type("image/jpeg")
-    );
+    ); */
 }
 
 .bg-presentation {
@@ -841,11 +841,11 @@ h4 {
         url("img/webp/image-de-presentation.webp") type("image/webp"),
         url("img/jpg/image-de-presentation.jpg") type("image/jpeg")
     );
-    background-image: image-set(
+    /* background-image: image-set(
         url("img/avif/image-de-presentation.avif") type("image/avif"),
         url("img/webp/image-de-presentation.webp") type("image/webp"),
         url("img/jpg/image-de-presentation.jpg") type("image/jpeg")
-    );
+    ); */
 }
 
 @media (max-width: 1024px) {
